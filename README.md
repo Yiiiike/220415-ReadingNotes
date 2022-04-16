@@ -1,2 +1,3 @@
-# leetcode
-leetcode刷题笔记
+# 读书笔记
+
+纯粹读书笔记
